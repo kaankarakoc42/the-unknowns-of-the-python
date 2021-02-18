@@ -1,5 +1,3 @@
-class adana: ...
-
 def hi(name=""):
     print("hi",name)
 
